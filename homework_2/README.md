@@ -75,11 +75,11 @@ python -m pytest homework_2 -v
 ## Задачи
 
 
-| Папка                                | Задача         | Кратко                                                     |
-| ------------------------------------ | -------------- | ---------------------------------------------------------- |
-| `[stack_vs_queue/](stack_vs_queue/)` | Stack vs Queue | Стек (LIFO) и очередь (FIFO) на односвязных списках        |
-| `[validate/](validate/)`             | Validate       | Можно ли получить `popped` операциями push/pop из `pushed` |
-| `[merge_lists/](merge_lists/)`       | Merge lists    | Слияние двух отсортированных списков: с dummy и без        |
+| Папка | Задача | Кратко |
+| ----- | ------ | ------ |
+| [stack_vs_queue/](stack_vs_queue/) | Stack vs Queue | Стек (LIFO) и очередь (FIFO) на односвязных списках |
+| [validate/](validate/) | Validate | Можно ли получить `popped` операциями push/pop из `pushed` |
+| [merge_lists/](merge_lists/) | Merge lists | Слияние двух отсортированных списков: с dummy и без |
 
 
 Подробности по каждой задаче — в `README.md` соответствующей папки.
